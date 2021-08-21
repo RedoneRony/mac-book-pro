@@ -53,7 +53,6 @@ function calculateTotal() {
   
 //    perform event handler for promo code button
    document.getElementById('btn-total').addEventListener('click', function(){
-    // ExtraPriceAmount('delivery-total',20);
 
     const textInput = document.getElementById('text-id');
 
