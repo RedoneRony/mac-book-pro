@@ -66,7 +66,7 @@ function calculateTotal() {
         textInput.value = '';
      }
      else{
-         alert('promo code is icorrect');
+         alert('promo code is incorrect');
          textInput.value = '';
      }
    })
